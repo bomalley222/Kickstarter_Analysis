@@ -17,7 +17,7 @@ The focus of this analysis is to analyze the outcomes (successful, failed and ca
 ## Analysis of Outcomes Based on Goals
 The focus of this analysis is to analyze the percentage of successful, failed and canceled plays based on the funding goal amount. In order to do this, the following steps needed to be taken prior to conducting the analysis. First, a table needed to be created on a new sheet, within the Kickstarter MS Excel workbook. The table aims to capture the outcomes based on campaign funding goals, which are broken down in to 12 groupings, ranging from less than $1,000 up to greater than $50,000. The COUNTIFS function was then utilized to capture the outcome and goal data for the “plays” subcategory, to determine the number of successful, failed and canceled campaigns based off the corresponding funding goal. Based off this data, the total number of successful, failed and canceled projects could easily be calculated by using the SUM function. Upon calculating the percentage of successful, failed and canceled projects, a line chart was created to visualize the data.
 
-Resources/Outcomes_vs_Goals
+![](Resources/Theater_Outcomes_vs_Launcg.png)
 
 ## Challenges and Difficulties Encountered
 The main challenge I encountered while working on this project pertained to setting up the Pivot Table fields in MS Excel. Determining how to best visualize the data, based off selecting the most appropriate filter, column, row and value fields is essential. I was able to overcome this through trial and error, until I was able to appropriately visualize the needed data. Prior to creating a Pivot Table, it is necessary to have a sense of which data needs to be summarized, along with how the data should be presented.
